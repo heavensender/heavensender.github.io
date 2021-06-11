@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Past Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Space Shooting Game](https://heavensender.github.io/spaceShootingGame/p1.html)
+<img src="images/project1.jpeg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
