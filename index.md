@@ -5,25 +5,32 @@
 ### Past Project
 
 [Space Shooting Game](https://heavensender.github.io/spaceShootingGame/p1.html)
+#Childhood Fav Game (HTML+Javascript)
 <img src="images/project1.jpeg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[User Management App](https://ga-p2usermanagementweb.herokuapp.com/)
+#A place to manage forum user information (MERN)
+<img src="images/project2.jpeg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Book Gram          ](https://mernbookgram.herokuapp.com/)
+#To share your fav books (Group work with [Benson](https://github.com/bzknightz) & [Terry](https://github.com/Terrykoek) )
+<img src="images/project3.jpeg"/>
 
 ---
 
-### Category Name 2
+<!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+ -->
+---
+ 
+ 
 
 ---
 
