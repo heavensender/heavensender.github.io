@@ -3,6 +3,7 @@
 ---
 
 ### Past Project
+---
 
 [Space Shooting Game](https://heavensender.github.io/spaceShootingGame/p1.html)
 ---
@@ -22,7 +23,6 @@
 <img src="images/project3.jpeg"/>
 
 ---
-
 [Class Booking System          ](http://heavensender.pythonanywhere.com/)
 ---
 #Let members book their Yoga classes online. 
