@@ -4,7 +4,6 @@
 
 ### Past Project
 
----
 [Space Shooting Game](https://heavensender.github.io/spaceShootingGame/p1.html)
 ---
 #Childhood Fav Game (HTML+Javascript)
